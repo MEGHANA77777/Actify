@@ -1,16 +1,6 @@
 # ProActive
 
-<img src="https://img.shields.io/bundlephobia/min/react">
-<img src="https://img.shields.io/amo/stars/dustman">
-<img src="https://img.shields.io/steam/views/100">
 
-<center>
-
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/benrobo/proact/master?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/benrobo/proact?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/benrobo/proact?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/benrobo/proact?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/benrobo/proact?style=for-the-badge)
 
 </center>
 
