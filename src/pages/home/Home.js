@@ -125,7 +125,7 @@ function Features() {
         <div className="features-cont">
             <div className="top-head">
                 <div className="line"></div>
-                <p>Proactive Features</p>
+                <p>Actify Features</p>
                 <div className="line"></div>
             </div>
             <div className="features-lists">
@@ -181,13 +181,12 @@ function Section() {
 
     return (
         <div className="about-cont">
-            <img src={avatar} alt="" />
             <br />
-            <h4>Created By <kbd>BENAIAH aka (BENROBO) 🔥</kbd> </h4>
+            <h4>Created By <kbd> Meghana Yenumula - Tech Enthusiast?</kbd> </h4>
             <br />
-            <small>Nothing much about me 🔥.</small>
+            <small>Thank you.</small>
             <br />
-            <button className="btn" onClick={() => window.location = "https://github.com/benrobo"}>Follow Me</button>
+            <button className="btn" onClick={() => window.location = "https://www.linkedin.com/in/meghanayenumula"}>Follow Me</button>
         </div>
     )
 }
