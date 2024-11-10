@@ -68,13 +68,4 @@ Below are some of technologies used within this application.
 ## Problem Solving. 🥰
 Providing these features wouldnt have been possible without my `Problem Solving Skill`, `Data Structures and Algorithms` and `God`.
 
-## Deployment 
-This application was deployed using 
-
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-
-
-## Live Url
-## Avilable for desktop only not (mobile)
-[pro-act.netlify.app](https://pro-act.netlify.app/)
 
