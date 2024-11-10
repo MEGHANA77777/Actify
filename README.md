@@ -1,4 +1,4 @@
-# ProActive
+# Actify
 
 
 
@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/Benrobo/proact/master/readmeimg/home.PNG">
 
-The one and only app you would ever need to stay motivated 🥰. ProAct can be classified to be a standalone `App` 😉, unique and efficient `Tools` meant to give you motivation at the right time 🔥.
+The one and only app you would ever need to stay motivated 🥰. Actify can be classified to be a standalone `App` 😉, unique and efficient `Tools` meant to give you motivation at the right time 🔥.
 
 As the codejam theme implies `Make Everyday a Little Less Ordinary`, I was able to `translate` and `understand` this theme with an application which is meant to make the end user `Motivated`, `Active` and `Productive`.
 
