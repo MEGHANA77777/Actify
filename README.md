@@ -78,8 +78,3 @@ This application was deployed using
 ## Avilable for desktop only not (mobile)
 [pro-act.netlify.app](https://pro-act.netlify.app/)
 
-## Team
-- Team Name : 
-  - ## `Benrobo`
-- Team Participant.
-  - ## `Benrobo`
