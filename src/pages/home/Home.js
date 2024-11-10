@@ -47,13 +47,13 @@ function Home() {
                 </div>
 
                 {pageName === "home" && <div className="right-cont">
-                    <p className='brand'>Proactive</p>
+                    <p className='brand'>Actify</p>
                     <div className="bx-cont">
                         <div className="con">
                             <h1>Making Life Less Ordinary.</h1>
                             <p>
 
-                                The one and only app you would ever need to stay motivated 🥰. ProAct can be classified to be a standalone `App` 😉, unique and efficient `Tools` meant to give you motivation at the right time 🔥.
+                                The one and only app you would ever need to stay motivated 🥰. Actify can be classified to be a standalone `App` 😉, unique and efficient `Tools` meant to give you motivation at the right time 🔥.
                             </p>
                             <br />
                             <Link to="/dashboard">
