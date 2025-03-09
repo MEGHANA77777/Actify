@@ -13,7 +13,7 @@ As the codejam theme implies `Make Everyday a Little Less Ordinary`, I was able 
 What makes this application standouts from the rest is that, it doesnt provide this complex features `Motivational Quotes`, , `Mood`, on different platforms, but rather provides all these features on it own. Also consist of an `onboarding` chatbot which get you into the app using some interactive UI comonents 🥰.
 
 
-### ProAct Features
+### ACTIFY Features
 <br/>
 
 ### Motivational Quotes First Page🔥
